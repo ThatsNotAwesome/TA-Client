@@ -1,2 +1,2 @@
 # TA-Client-Minecraft
-A Minecraft client.
+An alternative Minecraft launcher.
